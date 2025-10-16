@@ -1,7 +1,5 @@
 #pragma once
 #include "Scene.h"
-#include <conio.h>
-#include <iostream>
 
 class GameScene : public Scene {
 private:
